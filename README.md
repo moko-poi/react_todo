@@ -5,8 +5,9 @@
 ReactHooks
 
 - TypeScript
+- ReduxToolkit
 - TSX
-- 関数コンポーネント
+- FC
 - Props
 - State
 
