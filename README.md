@@ -3,7 +3,7 @@
 # objective
 
 - Reactの習得（Props, useState）
-- 
+ 
 React, firebaseを使用した、Todoリスト（CRUD）システム
 
 ## specification
