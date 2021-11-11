@@ -1,5 +1,11 @@
 # Todo_App_React
 
+# objective
+
+- Reactの習得（Props, useState）
+- 
+React, firebaseを使用した、Todoリスト（CRUD）システム
+
 ## specification
 
 ReactHooks
